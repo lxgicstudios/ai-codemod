@@ -1,5 +1,10 @@
 # ai-codemod
 
+[![npm version](https://img.shields.io/npm/v/ai-codemod.svg)](https://www.npmjs.com/package/ai-codemod)
+[![npm downloads](https://img.shields.io/npm/dm/ai-codemod.svg)](https://www.npmjs.com/package/ai-codemod)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 AI-powered codemod generator for large-scale code changes
 
 ## Install
