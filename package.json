@@ -1,14 +1,44 @@
 {
   "name": "ai-codemod",
   "version": "1.0.0",
-  "description": "AI-powered codemod generator for large-scale code changes",
+  "description": "AI-powered codemod generator - AST transforms and bulk code migrations with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-codemod": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["ai", "cli", "developer-tools", "npx", "nodejs", "openai"],
+  "bin": {
+    "ai-codemod": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "codemod",
+    "ast",
+    "refactoring",
+    "migration",
+    "jscodeshift",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "transform",
+    "upgrade"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/LXGIC-Studios/ai-codemod" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/ai-codemod"
+  }
 }
