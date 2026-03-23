@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-codemod#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-codemod"
+    "url": "git+https://github.com/LXGIC-Studios/ai-codemod.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-codemod/issues"
