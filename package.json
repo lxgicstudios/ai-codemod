@@ -1,5 +1,5 @@
 {
-  "name": "ai-codemod",
+  "name": "@lxgicstudios/ai-codemod",
   "version": "1.0.0",
   "description": "AI-powered codemod generator - AST transforms and bulk code migrations with GPT",
   "main": "dist/index.js",
