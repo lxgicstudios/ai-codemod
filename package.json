@@ -15,41 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "ast",
-    "automation",
-    "claude",
-    "cli",
     "codemod",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "generative-ai",
-    "gpt",
-    "javascript",
-    "llm-optimized",
-    "modern-seo",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "seo",
-    "seo-2026",
     "transform",
-    "typescript"
+    "typescript",
+    "javascript",
+    "cli",
+    "AI-powered",
+    "AI-optimized",
+    "performance",
+    "optimization",
+    "seo",
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-codemod#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-codemod#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-codemod"
+    "url": "https://github.com/lxgicstudios/ai-codemod"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-codemod/issues"
+    "url": "https://github.com/lxgicstudios/ai-codemod/issues"
   },
   "funding": {
     "type": "github",
