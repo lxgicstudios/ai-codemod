@@ -16,7 +16,7 @@
 
 # AI Codemod
 
-solve specific development challenges with AI-powered insights.
+AI-powered codemod generator — AST transforms, bulk migrations, and jscodeshift scripts. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-codemod.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-codemod)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-codemod?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-codemod)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered codemod generator - AST transforms and bulk code migrations with GPT.
+> AI-powered codemod generator — AST transforms and bulk code migrations with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
